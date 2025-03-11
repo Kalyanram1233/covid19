@@ -11,7 +11,7 @@ logo = Image.open('logo.png')
 st.set_page_config(page_title="COVID-19  EDA", page_icon=":bar_chart:", layout="wide")
 st.image(logo)
 # Define the list of names
-names = ["21A21A6111-E Jeji Anil", "21A21A6123-K Vamsi"]
+names = ["21A21A6107-Ch Kalyanram Venkata Narasimha Rao", "21A21a6105 -B Vinay Bhaskar"]
 st.title("Exploratory Data Analysis on COVID-19 Data Set")
 # Add the names to the sidebar
 st.sidebar.title("Project Team Members:")
